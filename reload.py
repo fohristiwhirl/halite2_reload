@@ -262,7 +262,7 @@ def main():
 				if len(messages) > 0:
 					print()
 
-	print("Completed OK")
+	print("Completed OK -- {} turns".format(n + 1))
 
 # ------------------------------
 
